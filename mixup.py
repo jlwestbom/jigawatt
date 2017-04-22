@@ -1,12 +1,8 @@
 #!/usr/bin/python3
-# Copyright 2017 Nate Bogdanowicz
+# Copyright 2017 Nate Bogdanowicz, Julia Westbom
 
 from enum import Enum
 from attr import attrs, attrib
-import pint
-
-u = pint._DEFAULT_REGISTRY
-Q = u.Quantity
 
 
 class Style(Enum):
