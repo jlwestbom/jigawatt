@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jack Rose",
+    "pours": [
+      {
+        "name": "Lairds Applejack",
+        "ounces": 2.00
+      },
+      {
+        "name": "Simple Syrup",
+        "ounces": 0.75
+      },
+      {
+        "name": "Lemon Juice",
+        "ounces": 0.75
+      }
+    ],
+    "style": "Shaken"
+  },
+  {
+    "name": "Jane Petunia",
+    "pours": [
+      {
+        "name": "Lairds Applejack",
+        "ounces": 2.00
+      },
+      {
+        "name": "Simple Syrup",
+        "ounces": 0.75
+      },
+      {
+        "name": "Lemon Juice",
+        "ounces": 0.75
+      }
+    ],
+    "style": "Shaken"
+  }
+]
